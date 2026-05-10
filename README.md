@@ -66,23 +66,6 @@ Need a developer who can take an idea from Figma to production — across web *a
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SimonePotenza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonePotenza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimonePotenza&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SimonePotenza/SimonePotenza/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
-
----
-
 ## 🚀 What I'm working on
 
 - 📱 **Cross-platform mobile apps** with Flutter (Riverpod, Dio, clean architecture)
@@ -101,5 +84,3 @@ If you've got an interesting project, a collaboration in mind, or just want to t
     <img src="https://img.shields.io/badge/Reach%20out%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
-<p align="center"><i>"Build things. Ship them. Iterate."</i></p>
