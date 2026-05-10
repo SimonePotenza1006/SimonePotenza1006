@@ -16,14 +16,14 @@
 
 ---
 
-## 🧭 About me
+## About me
 
-I'm a **Full-Stack Developer** based in Italy 🇮🇹, working across the whole pipeline — from pixel-perfect interfaces to backend services and mobile apps.
+I'm a **Full-Stack Developer** based in Italy 🇮🇹, working across the whole pipeline.
 
 ```ts
 const simone = {
   role:        "Full-Stack Developer",
-  location:    "Italy 🇮🇹",
+  location:    "Italy, Lecce",
   focus:       ["Mobile (Flutter)", "Backend (Java)", "Web (Astro / Next.js)"],
   currently:   "Shipping cross-platform apps and modern web experiences",
   philosophy:  "Clean code, real users, no over-engineering",
@@ -31,11 +31,11 @@ const simone = {
 };
 ```
 
-Need a developer who can take an idea from Figma to production — across web *and* mobile? **Let's talk.**
+Need a developer who can take an idea from Figma to production — across web *and* mobile? **Let's talk about it.**
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -66,7 +66,7 @@ Need a developer who can take an idea from Figma to production — across web *a
 
 ---
 
-## 🚀 What I'm working on
+## What I'm working on
 
 - 📱 **Cross-platform mobile apps** with Flutter (Riverpod, Dio, clean architecture)
 - ☕ **Backend services** with Java & Spring
@@ -75,7 +75,7 @@ Need a developer who can take an idea from Figma to production — across web *a
 
 ---
 
-## 📫 Let's connect
+## Let's connect
 
 If you've got an interesting project, a collaboration in mind, or just want to talk shop — my DMs are open.
 
