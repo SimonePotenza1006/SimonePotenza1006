@@ -11,6 +11,7 @@
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=SimonePotenza&style=for-the-badge&color=4F8BFF&label=PROFILE+VIEWS" alt="profile views"/>
 </p>
 
 ---
@@ -30,7 +31,7 @@ const simone = {
 };
 ```
 
-Need a developer who can take an idea from Figma to production — across web *and* mobile? **Let's talk about it.**
+Need a developer who can take an idea from design to production across web *and* mobile? **Let's talk about it.**
 
 ---
 
@@ -62,6 +63,41 @@ Need a developer who can take an idea from Figma to production — across web *a
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📈 Stats & Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SimonePotenza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SimonePotenza&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+### 📊 Weekly commit activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SimonePotenza&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph%20%E2%80%94%20Last%2031%20days" alt="activity graph"/>
+</p>
+
+### 🗂️ Profile summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SimonePotenza&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SimonePotenza&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SimonePotenza&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SimonePotenza&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SimonePotenza&theme=tokyonight&utcOffset=2" />
+</p>
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SimonePotenza&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies"/>
+</p>
 
 ---
 
